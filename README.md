@@ -17,6 +17,7 @@ After tuning the Hyperparameter we applied PCA process to increase the performan
 The Accuracy score for this model is 97%
 
 Finding:
+https://github.com/anggafebrianno/Project-2/blob/main/Picture%20for%20Readme.png
 The company that is predicted to go bankruptcy has a good performance to collect cash but can not handle their expense.
 
 Recommendations:
